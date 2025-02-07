@@ -16,8 +16,5 @@ python3 hackimage.py
 
 ```
 
-<a href="https://t.me/personer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Telegram</a>
-
-
-- Chanel : <a href="https://t.me/Mw_hack"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Telegram</a>
-- Developer : <a href="https://github.com/DeveloperAsd">Mr aMir</a>
+<a href="https://t.me/personer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Pv</a>
+<a href="https://t.me/Mw_hack"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Chanel</a>
